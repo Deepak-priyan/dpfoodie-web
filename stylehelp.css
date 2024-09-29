@@ -1,0 +1,29 @@
+.container{
+    display:grid;
+    grid-template-columns:1fr 1fr 1fr 1fr;
+    gap:3rem
+
+}
+.nav{
+    text-align: center;
+}
+.leg{
+    margin-left:7%;
+}
+
+.card1{
+    
+    width: 50%;
+    margin-top: 8%;
+    margin-left: 25%;
+    
+}
+.topic{
+    margin-left:38%;
+    color: #7FA1C3
+}
+.anhor{
+    text-decoration: none;
+    color: inherit;
+    color: aqua;
+}
